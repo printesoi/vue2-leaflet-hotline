@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "Ilya Oblomov"
+    "name": "Victor Dodon"
   },
   "bugs": {
-    "url": "https://github.com/ikmolbo/vue2-leaflet-hotline/issues"
+    "url": "https://github.com/printesoi/vue2-leaflet-hotline/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -19,7 +19,7 @@
     "vue-cli": "~2.8.2",
     "webpack-node-externals": "^1.5.4"
   },
-  "homepage": "https://github.com/ikmolbo/vue2-leaflet-hotline#readme",
+  "homepage": "https://github.com/printesoi/vue2-leaflet-hotline#readme",
   "keywords": [
     "Vue",
     "Leaflet",
@@ -32,12 +32,12 @@
   "name": "vue2-leaflet-hotline",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ikmolbo/vue2-leaflet-hotline.git"
+    "url": "git+ssh://git@github.com/printesoi/vue2-leaflet-hotline.git"
   },
   "scripts": {
     "build": "vue build Vue2LeafletHotline.vue --prod --lib --config build.config.js",
     "example": "vue build example.vue",
     "example-geojson": "vue build example-geojson.vue"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

@@ -5,9 +5,8 @@
 </template>
 
 <script>
-const L = require('leaflet')
 const { findRealParent, propsBinder } = require('vue2-leaflet')
-require('leaflet-hotline')(L)
+const L = require('leaflet-hotline')
 
 const props = {
   latLngs: {
