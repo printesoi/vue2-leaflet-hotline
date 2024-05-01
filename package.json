@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "main": "dist/Vue2LeafletHotline.js",
-  "name": "vue2-leaflet-hotline",
+  "name": "vue2-leaflet-hotline2",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/printesoi/vue2-leaflet-hotline.git"
